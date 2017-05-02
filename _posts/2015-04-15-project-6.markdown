@@ -1,0 +1,45 @@
+---
+layout: default
+modal-id: 6
+date: 2015-04-15
+img: lin.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+# 
+
+### 文字设计
+
+
+
+日常古诗文字小练习
+
+
+
+![古诗字2](http://ww1.sinaimg.cn/large/006tNc79gy1ff74g4giilj30jq0da1a5.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.55.12](http://ww1.sinaimg.cn/large/006tNc79gy1ff74g9fikpj30jq0fiq4i.jpg)
+
+
+
+![古诗1竖排版](http://ww4.sinaimg.cn/large/006tNc79gy1ff74ggi4mnj30jq0dp1ac.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.54.05](http://ww4.sinaimg.cn/large/006tNc79gy1ff74gr9veaj30jq0p4tar.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.54.27](http://ww1.sinaimg.cn/large/006tNc79gy1ff74gve2cxj30jq0rstcj.jpg)
+
+
+
+
+
+Thank you for watching  :-)
