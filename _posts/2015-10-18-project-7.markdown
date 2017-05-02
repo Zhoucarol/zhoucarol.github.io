@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2015-010-18
+date: 2015-10-18
 img: wuchang.png
 alt: image-alt
 project-date: April 2014
