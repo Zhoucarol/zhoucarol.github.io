@@ -11,19 +11,39 @@ description: Use this area of the page to describe your project. The icon above 
 typora-copy-images-to: ipic
 ---
 
-信息设计
+## 信息设计
+
+##### ——设计师的通病
+
+##### 
+
+身为一名设计专业的学生，每天都会看到大量的新闻报道某设计师因为连续加班熬夜猝死的消息，设计师的健康问题已经成为一个炙手可热的话题，同时身边的同学们也在经历着因为熬夜身体状况下降的问题。
+
+正因为上述这种状况，提出了“设计师的通病”信息展示设计概念，分析总结出了设计师较为常有的四种疾病——脊椎病、干眼症、鼠标手、脱发。针对这四种疾病，运用搞怪幽默的画风，以一种轻松幽默的方式来告诫设计师以及许许多多的工作者珍爱生命，爱护健康。
+
+
+
+
+
+脊椎病
 
 <iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/01.pdf" frameborder="0"> </iframe>
 
 
 
+干眼症
+
 <iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/02.pdf" frameborder="0"> </iframe>
 
 
 
+脱发
+
 <iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/03.pdf" frameborder="0"> </iframe>
 
 
+
+鼠标手
 
 <iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/04.pdf" frameborder="0"> </iframe>
 
