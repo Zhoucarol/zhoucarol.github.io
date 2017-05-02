@@ -8,7 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+typora-copy-images-to: ipic
 ---
 
 
@@ -17,46 +17,67 @@ description: Use this area of the page to describe your project. The icon above 
 
 #### 插画绘本设计
 
-![屏幕快照 2017-05-02 上午8.14.05](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.05.png)
+![屏幕快照 2017-05-02 上午8.14.05](http://ww3.sinaimg.cn/large/006tKfTcgy1ff6pxb13paj30r812cu0z.jpg)
 
-```
 母亲，
-每当每当深夜，我总会想起您，
+
+每当深夜，我都会想起您，
+
 想起您温暖的双手，
+
 想起您慈祥的脸庞。
+
 远在他乡，无法伴您左右。
-叠一艘小小的纸船
-让它载着女儿的爱与深情，进入您的梦乡⋯⋯
-```
 
-![屏幕快照 2017-05-02 上午8.14.18](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.18.png)
+叠一只小小的纸船，
 
-我从不肯妄弃一张纸，总是留着……留着
+让它载着女儿的爱与深情，进入您的梦乡……
 
-![屏幕快照 2017-05-02 上午8.14.25](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.25.png)
 
-叠成一只一只很小的船儿，从舟上抛下在海里
 
-![屏幕快照 2017-05-02 上午8.14.35](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.35.png)
+![屏幕快照 2017-05-02 上午8.14.18](http://ww1.sinaimg.cn/large/006tKfTcgy1ff6q0osovpj30r0120b2b.jpg)
+
+我从来不肯妄弃一张纸，总是留着……留着……
+
+
+
+![屏幕快照 2017-05-02 上午8.14.25](http://ww2.sinaimg.cn/large/006tKfTcgy1ff6q1o9jl7j31gw128b2d.jpg)
+
+叠成一只一只很小的船儿，从舟上抛下在海里。
+
+
+
+![屏幕快照 2017-05-02 上午8.14.35](http://ww4.sinaimg.cn/large/006tKfTcgy1ff6q2fqggfj30rq12ahdv.jpg)
 
 有的被天风吹卷到舟中的窗里
 
-![屏幕快照 2017-05-02 上午8.14.45](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.45.png)
+
+
+![屏幕快照 2017-05-02 上午8.14.45](http://ww4.sinaimg.cn/large/006tKfTcgy1ff6q2yhuczj30re12ckjn.jpg)
 
 有的被海浪打湿粘在船头上
 
-![屏幕快照 2017-05-02 上午8.14.56](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.14.56.png)
+
+
+![屏幕快照 2017-05-02 上午8.14.56](http://ww1.sinaimg.cn/large/006tKfTcgy1ff6q3gleruj31fi128hdx.jpg)
 
 我仍是不灰心地每天地叠着……
 
-![屏幕快照 2017-05-02 上午8.15.09](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.15.09.png)
+
+
+![屏幕快照 2017-05-02 上午8.15.09](http://ww4.sinaimg.cn/large/006tKfTcgy1ff6q3x7zybj30qw124e83.jpg)
 
 总希望有一只能流到我要它到的地方去
 
-![屏幕快照 2017-05-02 上午8.15.19](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.15.19.png)
+
+
+![屏幕快照 2017-05-02 上午8.15.19](http://ww1.sinaimg.cn/large/006tKfTcgy1ff6q4kdrhwj30ra12cnpf.jpg)
 
 母亲，倘若你梦中看见一只很小的白船儿，不要惊讶它无端入梦
 
-![屏幕快照 2017-05-02 上午8.15.35](/Users/Carol/Desktop/屏幕快照 2017-05-02 上午8.15.35.png)
+
+
+![屏幕快照 2017-05-02 上午8.15.35](http://ww2.sinaimg.cn/large/006tKfTcgy1ff6q5884o0j31hs12cu10.jpg)
 
 这是你至爱的女儿含着泪叠的，万水千山，求它载着她的爱和悲哀归去……
+
