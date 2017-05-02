@@ -84,8 +84,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #{{ site.color.primary }};
+    color: #ufff;
+    background-image: url(img/portfolio/cabin.png);
 }
 
 header .container {
