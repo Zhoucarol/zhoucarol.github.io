@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: restaurant.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -31,20 +31,17 @@ typora-copy-images-to: ipic
 
 ／会者近尔   迷者远乎  言语道断   非物所拘   差之毫厘   失之须臾／
 
-出自《佛说四十二章经》，能有体会的人已经感受到我的道法了，如惑不解不知我所说的人就离我的道法越来越远了。这已经不能用语言来表达了，也不是能用什么东西来概括。对于道法的理解差了一点，错过了一瞬间，那就相差甚远了。
-
-我们将“失”改为“食”，真心希望能将失去的美好再次传递给您。
-
-食之须臾，享之美好。
+出自《佛说四十二章经》，能有体会的人已经感受到我的道法了，如惑不解不知我所说的人就离我的道法越来越远了。这已经不能用语言来表达了，也不是能用什么东西来概括。对于道法的理解差了一点，错过了一瞬间，那就相差甚远了。我们将“失”改为“食”，真心希望能将失去的美好再次传递给您。食之须臾，享之美好。
 
 
 
 【品牌特征】
 
-1. 经过改进的传统西北美食
-2. 藏传佛教文化下的饮食环境
-3. 满足个人口味的贴心服务
+1、经过改进的传统西北美食
 
+2、藏传佛教文化下的饮食环境
+
+3、满足个人口味的贴心服务
 
 
 
@@ -58,6 +55,8 @@ typora-copy-images-to: ipic
 
 
 ![logo](http://ww4.sinaimg.cn/large/006tNc79gy1ff72x7u876j30if05x0uh.jpg)
+
+
 
 
 
@@ -85,7 +84,11 @@ typora-copy-images-to: ipic
 
 
 
+
+
 ##### 花纹制作
+
+
 
 
 
@@ -97,7 +100,11 @@ typora-copy-images-to: ipic
 
 
 
+
+
 ##### 效果图
+
+
 
 
 
@@ -117,6 +124,8 @@ typora-copy-images-to: ipic
 
 
 
+
+
 ![采风手册-51](http://ww2.sinaimg.cn/large/006tNc79gy1ff72jkdkkjj30jq0erkcz.jpg)
 
 
@@ -130,6 +139,10 @@ typora-copy-images-to: ipic
 
 
 ![采风手册-54](http://ww2.sinaimg.cn/large/006tNc79gy1ff72k5iu3mj30jq0eskct.jpg)
+
+
+
+
 
 
 
