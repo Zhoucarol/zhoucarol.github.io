@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: head.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -14,8 +14,6 @@ typora-copy-images-to: ipic
 ## 信息设计
 
 ##### ——设计师的通病
-
-##### 
 
 身为一名设计专业的学生，每天都会看到大量的新闻报道某设计师因为连续加班熬夜猝死的消息，设计师的健康问题已经成为一个炙手可热的话题，同时身边的同学们也在经历着因为熬夜身体状况下降的问题。
 
