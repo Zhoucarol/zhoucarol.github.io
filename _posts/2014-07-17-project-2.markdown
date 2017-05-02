@@ -2,11 +2,45 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: illu1.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+typora-copy-images-to: ipic
 ---
+
+### 佛教插画
+
+大三上学期，我们经历了为期一个月的民间艺术考察课程。
+
+9月初，我们踏上了西北之行。
+
+途径兰州、天水、敦煌、四川、等13个地区，欣赏了许多震撼人心的民间艺术，深刻了解到了古代劳动人民的智慧。
+
+这组佛教插画为考察课途中随手所画，记录麦积山一行后自己对于佛教的想法。
+
+
+
+![2](/Users/Carol/Desktop/markdown/2.jpg)
+
+
+
+
+
+![3](/Users/Carol/Desktop/markdown/3.jpg)
+
+
+
+
+
+![4](/Users/Carol/Desktop/markdown/4.jpg)
+
+
+
+![5](/Users/Carol/Desktop/markdown/5.jpg)
+
+
+
+![10](/Users/Carol/Desktop/markdown/10.jpg)
