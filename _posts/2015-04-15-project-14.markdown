@@ -1,0 +1,29 @@
+---
+layout: default
+modal-id: 14
+date: 2017-04-28
+img: g.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### 情绪空间
+
+
+
+将人的情绪用点的方式进行展现，动画分为十个主题——瞢眩、瞬目、昏迷、弥散、舛错、缭乱、燥乱、跃动、虚浮、潜寐。
+
+人有各种各样的情感，这种情感是否可以用视觉来展现？是否可以用最简单的图形来展现？想尝试用不一样的方式来展现人的情绪，是完全的一种自我尝试。
+
+
+
+
+
+
+
+Thank you for watching  :-)
+
