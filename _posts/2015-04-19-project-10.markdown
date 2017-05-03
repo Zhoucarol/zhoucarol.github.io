@@ -1,0 +1,131 @@
+---
+layout: default
+modal-id: 10
+date: 2017-04-28
+img: web.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### 芥末豆
+
+
+
+#### ——艺考美术网站用户分析与设计
+
+
+
+学期：大二上半学期                              课程：用户研究设计                              指导老师：鲍懿喜                              小组成员：周雯洁    王帅   杨柳    欧阳雨晴
+
+
+
+“用户研究”课程主要内容是分析一个现有的建设较为成功的网站，从中抽取其值得借鉴的设计点。再根据这些分析内容，自选用户人群，挖掘痛点，设计一款满足该用户需求的网站。
+
+
+
+我们深入分析了豆瓣，发现其定位小而精准，风格把握明确，同时是一个多元化的交流互动平台，这一点值得我们借鉴。同时我们在brainstorming中选中了艺考这一与我们息息相关的话题，将目标用户定位在高考美术生与大学美术生两者，挖掘其潜在需求和痛点，搭建一个像豆瓣一样功能多元，信息完善，由美术生自主分享，自然使用的高质量信息交流网络平台。
+
+
+
+##### 豆瓣——案例分析报告
+
+
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/06.pdf" frameborder="0"> </iframe>
+
+
+
+##### 豆瓣分析信息可视化图
+
+
+
+![周雯洁](http://ww1.sinaimg.cn/large/006tNbRwgy1ff88zr7j7ij30jq0rjgsr.jpg)
+
+
+
+![杨柳](http://ww2.sinaimg.cn/large/006tNbRwgy1ff88zw87acj30jq0dy10w.jpg)
+
+
+
+![王帅](http://ww2.sinaimg.cn/large/006tNbRwgy1ff8907sb94j30jq0dy433.jpg)
+
+
+
+![欧阳雨晴](http://ww3.sinaimg.cn/large/006tNbRwgy1ff890cn0wlj30jq0s27cz.jpg)
+
+
+
+
+
+
+
+##### 芥末豆——用户调研分析
+
+
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/07.pdf" frameborder="0"> </iframe>
+
+
+
+
+
+##### 竞品分析
+
+
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/08.pdf" frameborder="0"> </iframe>
+
+
+
+
+
+##### 产品报告书
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/09.pdf" frameborder="0"> </iframe>
+
+
+
+
+
+##### 后期网站界面设计
+
+
+
+![屏幕快照 2017-05-03 下午4.26.01](http://ww3.sinaimg.cn/large/006tNbRwgy1ff897noa4ij30jq0rxwti.jpg)
+
+
+
+![屏幕快照 2017-05-03 下午4.26.01 2](http://ww4.sinaimg.cn/large/006tNbRwgy1ff898bc316j30jq0ru7f5.jpg)
+
+
+
+![屏幕快照 2017-05-03 下午4.24.37](http://ww1.sinaimg.cn/large/006tNbRwgy1ff898ih1qrj30jq0rr12t.jpg)
+
+
+
+![屏幕快照 2017-05-03 下午4.24.37 2](http://ww1.sinaimg.cn/large/006tNbRwgy1ff898nxqw2j30jq0rrtoz.jpg)
+
+
+
+
+
+
+
+##### 网站宣传视频
+
+<iframe width="600" height="500" src="https://player.youku.com/embed/XMjc0MDU5OTkwNA==" frameborder="0"> </iframe>
+
+
+
+
+
+
+
+
+
+Thank you for watching  :-)
+

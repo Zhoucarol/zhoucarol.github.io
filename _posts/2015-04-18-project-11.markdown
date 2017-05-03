@@ -1,0 +1,85 @@
+---
+layout: default
+modal-id: 11
+date: 2017-04-28
+img: ap.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### HOLOSCENE
+
+
+
+#### ——AR自由行APP
+
+
+
+学期：大二下半学期                              项目：UXPA用户体验设计大赛项目                              指导老师：辛向阳                              小组成员：周雯洁    陈晨    耿伊飘    董泽辉    徐鹏诚
+
+
+
+
+
+大二下半学期5月，我们参加了UXPA用户体验设计大赛，将当下流行的AR（扩充现实）技术运用到旅行APP中，通过用户调研，我们发现在旅行过程中存在诸多问题，如线路规划不合理，找不到景点，展品信息难以了解，旅行乐趣难以与他人分享等问题，因此，我们运用AR技术，最大程度的满足用户需求，使得用户能更好的享受旅行过程。
+
+
+
+
+
+##### 需求分析报告
+
+
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/10.pdf" frameborder="0"> </iframe>
+
+
+
+
+
+
+
+##### 概念设计报告
+
+
+
+<iframe width="100%" height="500" src="https://zhoucarol.github.io/resource/11.pdf" frameborder="0"> </iframe>
+
+
+
+
+
+##### 后期界面设计展示效果
+
+
+
+![1](http://ww4.sinaimg.cn/large/006tNbRwgy1ff89wto7oyj30jq0dy45e.jpg)
+
+![排版2](http://ww1.sinaimg.cn/large/006tNbRwgy1ff89wym7ygj30jq0dyn2x.jpg)
+
+![排版4](http://ww1.sinaimg.cn/large/006tNbRwgy1ff89xb98b7j30jq0dyq9y.jpg)
+
+![排版5](http://ww4.sinaimg.cn/large/006tNbRwgy1ff89xhr0i6j30jq0dy7bl.jpg)
+
+![ap](http://ww1.sinaimg.cn/large/006tNbRwgy1ff8a98z8s7j30jq0dsn47.jpg)
+
+
+
+##### 网站宣传视频
+
+<iframe width="600" height="500" src="https://player.youku.com/embed/XMjc0MDU5OTkwNA==" frameborder="0"> </iframe>
+
+
+
+
+
+
+
+
+
+Thank you for watching  :-)
+

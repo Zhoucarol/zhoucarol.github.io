@@ -1,0 +1,52 @@
+---
+layout: default
+modal-id: 7
+date: 2015-10-18
+img: wuchang.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### 文字设计
+
+
+
+日常组合文字小练习
+
+
+
+![组合字2效果图](http://ww4.sinaimg.cn/large/006tNc79gy1ff74lvu8qkj30jq0e4gp6.jpg)
+
+
+
+![网格字1效果图](http://ww4.sinaimg.cn/large/006tNc79gy1ff74m0jatqj30jq0e0dgh.jpg)
+
+
+
+![组合字1效果图](http://ww4.sinaimg.cn/large/006tNc79gy1ff74m64mw7j30jq0cv40x.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.55.28](http://ww4.sinaimg.cn/large/006tNc79gy1ff74maclz9j30jq0rs3zz.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.55.37](http://ww4.sinaimg.cn/large/006tNc79gy1ff74md3yp0j30jq0rst9v.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.56.12](http://ww4.sinaimg.cn/large/006tNc79gy1ff74mg66u8j30jq0esaat.jpg)
+
+
+
+![屏幕快照 2017-05-02 下午4.55.46](http://ww1.sinaimg.cn/large/006tNc79gy1ff74mimrjxj30jq0cz0tq.jpg)
+
+
+
+
+
+Thank you for watching  :-)

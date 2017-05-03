@@ -1,0 +1,76 @@
+---
+layout: default
+modal-id: 2
+date: 2016-09-05
+img: ill.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### 佛教插画
+
+
+
+大三上学期，我们经历了为期一个月的民间艺术考察课程。
+
+9月初，我们踏上了西北之行。
+
+途径兰州、天水、敦煌、四川、青海、德令哈、西宁等13个地区，欣赏了许多震撼人心的民间艺术，深刻了解到了古代劳动人民的智慧。
+
+这组佛教插画为考察课途中随手所画，用搞笑幽默的画风来记录麦积山的佛像。
+
+
+
+
+
+
+
+
+
+![2](http://ww2.sinaimg.cn/large/006tNc79gy1ff6rqmxzutj30jq0rt1kx.jpg)
+
+
+
+![3](http://ww2.sinaimg.cn/large/006tNc79gy1ff6rqrymfkj30jq0rt1jf.jpg)
+
+
+
+![4](http://ww1.sinaimg.cn/large/006tNc79gy1ff6rr17kucj30jq0rt4qp.jpg)
+
+
+
+![5](http://ww1.sinaimg.cn/large/006tNc79gy1ff6rr4zu1lj30jq0rtkgs.jpg)
+
+
+
+
+
+![10](http://ww3.sinaimg.cn/large/006tNc79gy1ff6rrb4lpxj30jq0e8wyw.jpg)
+
+
+
+进行了一些实物打印和其他尝试
+
+
+
+![DSC09737](http://ww1.sinaimg.cn/large/006tNc79gy1ff6s8f9ri0j30jq0tlk97.jpg)
+
+
+
+![DSC09742](http://ww4.sinaimg.cn/large/006tNc79gy1ff6s8kfwfcj30jq0d5wmr.jpg)
+
+
+
+![DSC09743](http://ww3.sinaimg.cn/large/006tNc79gy1ff6s8nfkdaj30jq0d5thv.jpg)
+
+
+
+
+
+
+
+Thank you for watching  :-)
