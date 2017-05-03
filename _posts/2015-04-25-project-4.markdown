@@ -11,15 +11,11 @@ description: Use this area of the page to describe your project. The icon above 
 typora-copy-images-to: ipic
 ---
 
-### 信息设计
+### 设计师的通病——信息设计
 
 
 
-#### ——设计师的通病
-
-
-
-
+学期：大三下半学期                              课程：信息设计                              指导老师：吴建军                              小组成员：周雯洁    杨柳
 
 
 

@@ -39,28 +39,6 @@ typora-copy-images-to: ipic
 
 
 
-##### 豆瓣分析信息可视化图
-
-
-
-![周雯洁](http://ww1.sinaimg.cn/large/006tNbRwgy1ff88zr7j7ij30jq0rjgsr.jpg)
-
-
-
-![杨柳](http://ww2.sinaimg.cn/large/006tNbRwgy1ff88zw87acj30jq0dy10w.jpg)
-
-
-
-![王帅](http://ww2.sinaimg.cn/large/006tNbRwgy1ff8907sb94j30jq0dy433.jpg)
-
-
-
-![欧阳雨晴](http://ww3.sinaimg.cn/large/006tNbRwgy1ff890cn0wlj30jq0s27cz.jpg)
-
-
-
-
-
 
 
 ##### 芥末豆——用户调研分析

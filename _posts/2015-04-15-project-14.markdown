@@ -2,7 +2,7 @@
 layout: default
 modal-id: 14
 date: 2017-04-28
-img: g.png
+img: guang.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
