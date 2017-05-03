@@ -1,0 +1,57 @@
+---
+layout: default
+modal-id: 15
+date: 2017-04-28
+img: s.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+typora-copy-images-to: ipic
+---
+
+### 《眠空》
+
+#### ——书籍设计
+
+
+
+书籍设计的课程要求是寻找一本感兴趣的书，加以改造，使其更能吸引读者。《眠空》一直是一本我很喜欢的书，每当内心烦躁的时候，就翻开它，总能让内心平静下来。
+
+这本书记录了一个写作之人春夏秋冬整整一年，语言安静唯美。对这本书的改造，以“四季”为切入点，结合书名“眠空”，以浅蓝色为主色调，同时在蓝色基础上寻找不同季节细微的颜色变化。
+
+文字排版方面，也结合四季特点，春季万物萌发，文字从中间开始排版，越往上越疏；夏季繁茂密集，文字紧密排列；秋季落叶零落，文字置于底部，营造一种凋零之感；冬季苍茫辽阔，文字若隐若现。
+
+
+
+
+
+![1](http://ww2.sinaimg.cn/large/006tNc79gy1ff8jxbopxdj30jq0d2goz.jpg)
+
+![9](http://ww1.sinaimg.cn/large/006tNc79gy1ff8jys4p6oj30jq0d5dk9.jpg)
+
+![8](http://ww1.sinaimg.cn/large/006tNc79gy1ff8jz0r9mpj30jq0cjq66.jpg)
+
+![7](http://ww4.sinaimg.cn/large/006tNc79gy1ff8jzjdir8j30jq0d5dk6.jpg)
+
+![3](http://ww3.sinaimg.cn/large/006tNc79gy1ff8jyjebpmj30jq0d5wjh.jpg)
+
+![6](http://ww2.sinaimg.cn/large/006tNc79gy1ff8jylh4nwj30jq0d5qan.jpg)
+
+![11](http://ww1.sinaimg.cn/large/006tNc79gy1ff8jzdt6b8j30jq0d5n3l.jpg)
+
+![10](http://ww2.sinaimg.cn/large/006tNc79gy1ff8jzoo3plj30jq0d5n1h.jpg)
+
+
+
+
+
+
+
+
+
+
+
+Thank you for watching  :-)
+
