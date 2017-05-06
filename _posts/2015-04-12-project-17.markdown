@@ -33,8 +33,6 @@ typora-copy-images-to: ipic
 
 
 
-![DSC04004](http://ww4.sinaimg.cn/large/006tNc79gy1ff92ieq32tj30jq0ax7aa.jpg)
-
 ![DSC04007](http://ww2.sinaimg.cn/large/006tNc79gy1ff92igb8k5j30jq0ax7aa.jpg)
 
 ![DSC04005](http://ww4.sinaimg.cn/large/006tNc79gy1ff92ijpy31j30jq0d5wna.jpg)
